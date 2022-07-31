@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/solana-js-utils/node_modules
 /.pnp
 .pnp.js
 
